@@ -1,2 +1,2 @@
-# solanaworldarcc
+# solanaworldarc
 WORLD OF SOLANA 
